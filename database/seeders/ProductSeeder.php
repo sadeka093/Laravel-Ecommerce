@@ -20,7 +20,7 @@ class ProductSeeder extends Seeder
         	"price"=>"10000",
         	"description"=>"a smart phone",
         	"category"=>"mobile",
-        	"gallery"=>"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lg.com%2Fus%2Fcell-phones&psig=AOvVaw3QOlbDic3gV1nQ8rQjMeZA&ust=1615799813126000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIihyqL1sO8CFQAAAAAdAAAAABAD",
+        	"gallery"=>"https://5.imimg.com/data5/NT/UC/WR/SELLER-82975943/samsung-galaxy-a7-a750-mobile-phone-500x500.jpg",
         	
         ],
         [
@@ -28,7 +28,7 @@ class ProductSeeder extends Seeder
         	"price"=>"10000",
         	"description"=>"a smart phone",
         	"category"=>"mobile",
-        	"gallery"=>"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Foppo-mobile-phones-f15-22052662297.html&psig=AOvVaw1_UeWU7LkViNEyeGL5ISf8&ust=1615800506968000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjO3u73sO8CFQAAAAAdAAAAABAD",
+        	"gallery"=>"https://www.zdnet.com/a/hub/i/2020/06/05/c03437ee-4ea6-4c75-9e38-fbcaded8e50d/galaxy-note-10.jpg",
         	
         ]
          ]);
